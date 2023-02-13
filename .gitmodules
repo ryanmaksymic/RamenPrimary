@@ -1,0 +1,3 @@
+[submodule "Assets/Submodule"]
+	path = Assets/Submodule
+	url = https://github.com/ryanmaksymic/RamenSecondary
